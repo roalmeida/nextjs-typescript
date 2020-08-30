@@ -1,7 +1,7 @@
 import React from 'react'
 import Head from 'next/head'
 
-import Logo from '../assets/images/vercel.svg'
+import Logo from '../assets/images/nextjs.svg'
 
 export default function Home() {
   return (

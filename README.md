@@ -1,4 +1,12 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p align="center">
+  <img src="src/assets/images/nextjs.png" alt="NextJs" />
+</p>
+
+<div align="center">
+  <h1>NextJs with Typescript and SASS</h1>
+</div>
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) take the advantage of Typescrypt.
 
 ## Getting Started
 
