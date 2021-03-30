@@ -1,6 +1,7 @@
 import Head from 'next/head'
+import SVG from 'react-inlinesvg'
 
-import Logo from '../assets/images/nextjs.svg'
+import logo from '../assets/images/nextjs.svg'
 
 export default function Home() {
   return (
@@ -10,7 +11,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <Logo />
+      <SVG src={logo} />
       <p className="p">NextJs application made with Typecript and SASS</p>
     </>
   )
